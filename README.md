@@ -44,3 +44,9 @@ Esta herramienta de línea de comandos permite descargar imágenes y videos de p
 ```bash
 python main.py -u <nombre_de_usuario>
 ```
+
+### Descarga contenido de un subreddit específico
+
+```bash
+python main.py -r <subreddit>
+```
